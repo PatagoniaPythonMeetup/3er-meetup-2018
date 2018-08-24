@@ -7,7 +7,7 @@ Charlas
 
 - Introducción a GeoPandas por Lic. Leonardo Morales - (IPCSH-CONICET, UNPSJB).
 
-- AutoEncoders, ¿de donde vienen?, ¿hacia dónde van? por Lic. Samuel Almonacid - (IPCSH-CONICET, UNPSJB).
+- AutoEncoders, ¿de donde vienen?, ¿hacia dónde van? por Lic. Samuel Almonacid - (CESIMAR-CONICET, UNPSJB).
 
 - Python para sysadmin y administradores de red por Lic. Bruno Zappellini - (UNPSJB).
 
